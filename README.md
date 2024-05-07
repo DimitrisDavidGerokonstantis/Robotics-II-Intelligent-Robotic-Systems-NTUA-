@@ -1,6 +1,6 @@
 # Robotics II: Intelligent Robotic Systems
 
-Exercises and Semester Projects for the Robotics II course of NTUA (8th semester).  
+Exercises (to be added) and Semester Projects for the Robotics II course of NTUA (8th semester).  
 The repository contains:  
 - **Semester Project 1:** A simulation of a **Redundant Robotic Manipulator**. The objective is that the end
 effector can successfully follow a specific path while at the same time avoiding the obstacles placed around it.
